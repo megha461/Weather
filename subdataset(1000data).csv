@@ -1,0 +1,10 @@
+_tempm,_dewptm,_pressurem,_conds,_hum,temperature
+32,25,1010,Clear,60,33
+30,24,1008,Cloudy,65,31
+28,22,1012,Rain,80,27
+35,27,1009,Clear,55,36
+31,23,1011,Cloudy,70,32
+29,20,1013,Rain,85,28
+33,26,1007,Clear,58,34
+27,19,1009,Cloudy,68,30
+26,18,1010,Rain,82,26
